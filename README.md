@@ -22,5 +22,4 @@ I like things that are **clear, scalable and solve real problems**.
 
 ---
 
-📚 **More content on my blog:**  
-➡️ ![Blog](https://portafolio-juan-diaz.vercel.app/)
+📚 **More content on my [blog](https://portafolio-juan-diaz.vercel.app/)**
