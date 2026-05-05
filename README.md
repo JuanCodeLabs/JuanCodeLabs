@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Juan — JuanCodeLabs**
+# 👋 Hello there, I'm **Juan**
 
 I build useful tools for systems, infrastructure and automation.  
 I like things that are **clear, scalable and solve real problems**.
