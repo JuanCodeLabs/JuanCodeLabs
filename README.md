@@ -1,11 +1,7 @@
 # 👋 Hello there, I'm **Juan**
 
-I build useful tools for systems, infrastructure and automation.  
-I like things that are **clear, scalable and solve real problems**.
-
----
-
-## 🛠️ Technologies I use
+I'm a programmer, network friki and musician.
+📚 **More about me on my [website](https://portafolio-juan-diaz.vercel.app/)**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -19,7 +15,3 @@ I like things that are **clear, scalable and solve real problems**.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-📚 **More content on my [blog](https://portafolio-juan-diaz.vercel.app/blog)**
