@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm **Juan**
 
 I'm a programmer, network friki and musician.
-📚 **More about me on my [website](https://portafolio-juan-diaz.vercel.app/)**
+📚 **More about me on my [website](https://portfolio-juan-diaz.vercel.app/)**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
